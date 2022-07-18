@@ -1,0 +1,2 @@
+1. /nfs/pdx/disks/ppa.map.39/jsrivats/sws/conda_env/env2/bin/python3 stats_parse.py --in_path=newstats --out_path=output --in_file=astar1_32MC_512_SETHASH_NEWHASH --sheet_name=statname
+2. To generate the summary tab: python summary_tab.py --in_file=stats
